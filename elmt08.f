@@ -6,7 +6,7 @@ c      * * F E A P * * A Finite Element Analysis Program
 c....  Copyright (c) 1984-2014: Regents of the University of California
 c                               All rights reserved
 
-c....  Sara Grbcic - 3D GEOMETRICALLY NONLINEAR MICROPOLAR CONTINUUM
+c....  Sara Grbcic - 3D GEOMETRICALLY NONLINEAR MICROPOLAR CONTINUUM :)
 c....				 - trilinear hexaedron (8 nodes)
 c....              - linear interpolation for displacements and microrotations
 
